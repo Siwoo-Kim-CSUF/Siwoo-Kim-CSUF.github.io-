@@ -18,4 +18,4 @@ My GitHub page is http://github.com/Siwoo-Kim-CSUF.
 
 * Lab 12
 
-    Lab 12, part 2, was the final lab for the CPSC 120L. I particulary enjoyed part 2 of the lab, which involved producing an image using a pseudorandom intger. It's a little wild, but I enjoy the animated image that we created using a basic algorithm.
+    Lab 12, part 2, was the final lab for the CPSC 120L. I particulary enjoyed part 2 of the lab, which involved producing an image using a pseudorandom intger. It's a little wild, but I enjoyed the animated image that we created using a basic algorithm.
